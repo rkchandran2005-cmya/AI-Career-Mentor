@@ -1,6 +1,6 @@
- AI-Career-Mentor
+ #AI-Career-Mentor
 
-** Project Overview**
+##Project Overview
 
 AI Career Mentor is a beginner-level LLM-powered application built using Python and OpenRouter API.
 
